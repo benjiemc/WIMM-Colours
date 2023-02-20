@@ -6,7 +6,7 @@ MATPLOTLIB_TEMPLATE = (
     "axes.titlesize : 16\n"
     "axes.labelsize : 12\n"
     "axes.prop_cycle : "
-    "cycler('color', ['2e2d62', '626262', '3c88a9', '953d86', '6390c8', 'bfc0c2', '55bbd2', 'dbc6de'])\n"
+    "cycler('color', [{colours}])\n"
     "axes.edgecolor : (0.1, 0.1, 0.1) # Normalized RGB colours (from 0 to 1 instead of 0 to 255)\n"
     "axes.labelcolor : (0.1, 0.1, 0.1)\n"
     "axes.linewidth : 1\n"
